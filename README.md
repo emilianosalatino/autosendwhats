@@ -1,7 +1,9 @@
 # Auto Send for WP.
-A simple Python Script to send texts via WhatsApp automatically.
+A simple Python Script to send texts via WhatsApp automatically. 
 
-It is SLOW... first of all... like 5 messages a minute.
+I made it because everything else is too complex, or dependency heavy... I just needed to send texts. Also, this doesn't mess with opening and closing browser tabs as WP Web is suuuper slow when loading in new tabs or windows. 
+
+It is **SLOW**... first of all... like 5 messages a minute. The sleep times are there for whatsapp web to load data. 
 
 Basically it emulates keyboard shortcuts. 
 
