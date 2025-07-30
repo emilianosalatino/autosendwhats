@@ -11,8 +11,6 @@ IF a number is not found, it now verifies, and logs the number in a list, and ho
 
 It is written for Python 3.9.7, and easiest to use with Visual Studio Code.
 
-Check Dependencies.
-
-One you run it, there's a 5 second gap for you to click on the whatsapp window and it works from there. 
+Check Dependencies. You **MUST** be logged into your whatsapp already in Edge. One you run it in say VS Code, there's a 5 second gap for you to click on the browser's  whatsapp window and it works from there. 
 
 WORKS IN EDGE BROWSER, SHOULD WORK IN OTHERS
