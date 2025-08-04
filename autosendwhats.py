@@ -19,15 +19,15 @@ errores=[]
 
 time.sleep(5)
 for i, number in enumerate(numero):
-    #time.sleep(5)
+    #time.sleep(random.uniform(1.5, 5.5))
     pyperclip.copy(number)
-    time.sleep(1)
+    time.sleep(2)
     hotkey('ctrl', 'alt', 'n')  # Opens a new chat in WhatsApp Web
-    time.sleep(1)
+    time.sleep(2)
     
     #paste number
     hotkey('ctrl','v')
-    time.sleep(1)
+    time.sleep(2)
     hotkey('enter')
     
     #PASTE MESSAGE
