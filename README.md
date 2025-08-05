@@ -1,4 +1,4 @@
-  qw# Auto Send for WP.
+# Auto Send for WP.
 A simple Python Script to send texts via WhatsApp automatically. 
 
 **_WARNING!!!_** **THIS *WILL* GET YOU WHATSAPP ACCOUNT BANNED....**  (except I don't know why unless it is the message rate... i only use keyboard shortcuts to do everything, so no way to tell it's a bot otherwise...)
